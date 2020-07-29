@@ -1,0 +1,10 @@
+This is an example of how to get one letter(char) from user input:
+
+  char letter_of_name;
+  scanf("%c", &letter_of_name);
+
+
+If you want to get user input WITH SPACES, you need to use getline:
+
+  string aux;
+  getline(cin, aux);
