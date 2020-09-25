@@ -1,10 +1,6 @@
-5
-heater
-cold
-clod
-reheat
-docl
-3
-codl
-heater
-abcd
+7
+-5
+6
+-3.4
+4.6
+12
